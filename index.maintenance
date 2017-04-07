@@ -63,7 +63,7 @@
 	<body>
     <div id="main-container">
 		<div class="cell">
-			<img src="/wp-content/uploads/2017/01/ucook-hawaii-logo-small.png" /><br/><br/><br/><br/><br/><br/>
+			<img src="[YOUR_WEBSITE_LOGO_HERE]" /><br/><br/><br/><br/><br/><br/>
 			<h1>This site is <br/>under maintenance.</h1>
 			<p>We are working on something special, check back soon!</p>
 		</div>
