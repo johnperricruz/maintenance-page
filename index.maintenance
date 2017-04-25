@@ -7,8 +7,8 @@
 	<meta name="robots" content="noindex,nofollow"/>
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Website Maintenance</title>
-	<link href="https://fonts.googleapis.com/css?family=Merriweather:400,700" rel="stylesheet">
-    <link href="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Merriweather:400,700" rel="stylesheet">
+    <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 	<style>
 		.h1, h1 {
 			font-size: 5em;
@@ -56,21 +56,21 @@
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <script src="//oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 	</head>
 	<body>
     <div id="main-container">
 		<div class="cell">
-			<img src="[YOUR_WEBSITE_LOGO_HERE]" /><br/><br/><br/><br/><br/><br/>
+			<img src="https://www.primeview.com/wp-content/uploads/2016/03/pv-log-white.png" /><br/><br/><br/><br/><br/><br/>
 			<h1>This site is <br/>under maintenance.</h1>
 			<p>We are working on something special, check back soon!</p>
 		</div>
 	</div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.js"></script>
   </body>
 </html>
